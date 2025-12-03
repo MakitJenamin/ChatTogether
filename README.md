@@ -99,6 +99,8 @@ The client will start on `http://localhost:5173`
 
 ## 📖 Usage
 
+> **Note:** The application UI is in Vietnamese. Interface labels and buttons are shown in their original language with English translations in parentheses.
+
 1. **Open the application** in your browser at `http://localhost:5173`
 2. **Enter your User ID** - This identifies you in the chat
 3. **Enter Receiver ID** - The ID of the person you want to chat with
